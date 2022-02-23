@@ -2,7 +2,7 @@
   "name": "rootinfo/greenwing",
   "description": "A Magento 2 module that creates a new page",
   "type": "magento2-module",
-  "minimum-stability": "dev-main"
+  "minimum-stability": "dev",
   "version": "1.0.0",
   "license": [
     "OSL-3.0",
