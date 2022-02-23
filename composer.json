@@ -1,0 +1,13 @@
+{
+    "name": "rootinfo/greenwing",
+    "description": "Greenwing Magento 2 Module",
+    "type": "project",
+    "authors": [
+        {
+            "name": "ankit.dholiya",
+            "email": "ankit.dholiya@rootinfosol.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
