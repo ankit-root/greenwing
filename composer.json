@@ -15,5 +15,11 @@
     "psr-4": {
       "Rootinfo\\Greenwing\\": ""
     }
-  }
+  },
+  "repositories": [
+        {
+            "type": "composer",
+            "url": "https://github.com/ankit-root/greenwing"
+        }
+    ]
 }
